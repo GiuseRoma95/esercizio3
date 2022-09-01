@@ -35,12 +35,13 @@ body {font-family: 'Raleway', sans-serif;
 }
 
 /* ELEMENTI NEL MAIN */
-body h2 { color: #337492;
+.info { color: #337492;
     text-align: center;
     font-variant: small-caps;
     text-transform: uppercase;
-    line-height: 1.6;
+    line-height: 3.2;
     font-weight: bold;
+    font-size: 30px;
 }
 
 .profile_pic {display: block;
@@ -96,6 +97,13 @@ mark {background-color: #489ec2;
 }
 
 .h2 {line-height: 3.6;
+    font-size: 30px;
+    color: #337492;
+    text-align: center;
+    font-variant: small-caps;
+    text-transform: uppercase;
+    font-weight: bold;
+    
 
 }
 
@@ -106,4 +114,37 @@ h3 {font-weight: 600;
 hr { border-top: 1px dashed;
 margin: 10;
 }
+
+.episch {color: #b97d78;
+
+}
+
+.form {line-height: 4;
+
+}
 /* FOOTER */
+footer {background-color: rgb(46, 46, 46);
+
+border-top-style: solid;
+    border-top-color: #337492;
+    border-top-width: 5px;
+}
+
+.t_white {color: white;
+    text-align: center;
+    font-size: small;
+    line-height: 1.5;
+
+}
+
+kbd {color: yellow;
+font-weight: 600;
+}
+
+.aut {color: grey;
+    text-align: center;
+    font-size: small;
+    line-height: 1.5;
+
+}
+
